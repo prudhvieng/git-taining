@@ -2,3 +2,6 @@ I am a feature file
 
 
 new content is being added to feature file`
+
+
+extra content
